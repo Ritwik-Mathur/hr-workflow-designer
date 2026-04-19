@@ -1,4 +1,5 @@
 # HR Workflow Designer — Tredence Case Study
+-BY RITWIK MATHUR
 
 A visual, drag-and-drop HR workflow designer built with **React**, **TypeScript**, **React Flow**, and **Zustand**.
 
